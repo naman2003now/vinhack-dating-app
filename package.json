@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://naman2003now.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

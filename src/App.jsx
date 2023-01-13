@@ -17,9 +17,9 @@ function App() {
         >
           This is a dating app where you have to pick between two choice. It
           will implement the chess ELO system and some AI to understand your
-          choice and suggest you the type of people you like so the both the
-          partner can have as similar taste as they can. You can find your
-          partner on the bases of music, location, taste of movies and more
+          choice and suggest you the type of people you like. So both the
+          partners can find people of their taste. You can find your partner on
+          the bases of music, location, taste of movies and more
         </div>
       ) : (
         <></>
